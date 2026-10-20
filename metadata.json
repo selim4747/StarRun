@@ -1,0 +1,6 @@
+{
+  "name": "Helios Infiltrator: Solar Skimmer",
+  "description": "Kızıl bir dev yıldızın plazma yüzeyinde hovercraft ile hidrojen sömürü kapsüllerini parçalayın, krediler toplayın ve kartel üslerine sızarak reaktörleri sabote edin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
